@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/YounglabsInovationsTask/static/css/main.073c9b0a.css",
+    "main.js": "/YounglabsInovationsTask/static/js/main.04dc932d.js",
+    "static/js/787.04ea43df.chunk.js": "/YounglabsInovationsTask/static/js/787.04ea43df.chunk.js",
+    "static/media/logo.svg": "/YounglabsInovationsTask/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/YounglabsInovationsTask/index.html",
+    "main.073c9b0a.css.map": "/YounglabsInovationsTask/static/css/main.073c9b0a.css.map",
+    "main.04dc932d.js.map": "/YounglabsInovationsTask/static/js/main.04dc932d.js.map",
+    "787.04ea43df.chunk.js.map": "/YounglabsInovationsTask/static/js/787.04ea43df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.04dc932d.js"
+  ]
+}
